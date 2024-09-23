@@ -6,10 +6,10 @@ Pod::Spec.new do |s|
                    SwiftUIGenericDialog allows developers to create customizable
                    and reusable dialogs for their SwiftUI applications with ease.
                    DESC
-  s.homepage     = 'https://github.com/housecode/swiftui-generic-dialog'
+  s.homepage     = 'https://github.com/globulus/swiftui-generic-dialog'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
-  s.author       = { 'housecode' => 'housecode@example.com' }
-  s.source       = { :git => 'https://github.com/housecode/swiftui-generic-dialog.git', :tag => s.version.to_s }
+  s.author       = { 'globulus' => 'globulus@example.com' }
+  s.source       = { :git => 'https://github.com/globulus/swiftui-generic-dialog.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '13.0'
   s.tvos.deployment_target = '13.0'
